@@ -1,22 +1,22 @@
  list:
   persons:
   -
-  dni: "12345678"
-  name: "Luis",
-  lastName: "Vera"
+  dni: 12345678
+  name: Luis,
+  lastName: Vera
   -
-  dni: "98765432"
-  name: "Mary Esther Daniela"
-  lastName: "Ruiz Areas"
+  dni: 98765432
+  name: Mary Esther Daniela
+  lastName: Ruiz Areas
   -
-  dni: "42534487"
-  name: "Stivet Anthony"
-  lastName: "Fulgencio Obando"
+  dni: 42534487
+  name: Stivet Anthony
+  lastName: Fulgencio Obando
   -
-  dni: "54657685"
-  name: "Soledad"
-  lastName: "Dionicio Zavaleta"
+  dni: 54657685
+  name: Soledad
+  lastName: Dionicio Zavaleta
   -
-  dni: "41678964"
-  name: "Antonio"
-  lastName: "Fulgencio Avila"
+  dni: 41678964
+  name: Antonio
+  lastName: Fulgencio Avila
