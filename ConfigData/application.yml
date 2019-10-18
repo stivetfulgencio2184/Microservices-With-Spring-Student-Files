@@ -7,6 +7,8 @@ eureka:
       #defaultZone: http://localhost:8011/eureka/,http://localhost:8012/eureka/,http://localhost:8013/eureka/
 
 message: Se obtuvo el listado de personas exitosamente dos
+notFound: person data not exist in db
+fallback: server down
 ---
 spring:
   profiles: subject
