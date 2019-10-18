@@ -7,7 +7,7 @@ eureka:
       #defaultZone: http://localhost:8011/eureka/,http://localhost:8012/eureka/,http://localhost:8013/eureka/
 
 message-everis: Se obtuvo el listado de personas exitosamente
-notFound: person data not exist in db
+notFound: not exist in db
 fallback: server down
 ---
 spring:
