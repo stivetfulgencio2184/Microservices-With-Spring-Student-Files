@@ -2,21 +2,21 @@
   persons:
    -
     dni: 12345678
-    name: Luis,
-    lastName: Vera
+    nombre: Luis,
+    apellido: Vera
    -
     dni: 98765432
-    name: Mary Esther Daniela
-    lastName: Ruiz Areas
+    nombre: Mary Esther Daniela
+    apellido: Ruiz Areas
    -
     dni: 42534487
-    name: Stivet Anthony
-    lastName: Fulgencio Obando
+    nombre: Stivet Anthony
+    apellido: Fulgencio Obando
    -
     dni: 54657685
-    name: Soledad
-    lastName: Dionicio Zavaleta
+    nombre: Soledad
+    apellido: Dionicio Zavaleta
    -
     dni: 41678964
-    name: Antonio
-    lastName: Fulgencio Avila
+    nombre: Antonio
+    apellido: Fulgencio Avila
